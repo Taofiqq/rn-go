@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goride-dev-51314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143672214668:role/amplify-goride-dev-51314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143672214668:role/amplify-goride-dev-51314-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-goride-dev-51314-deployment",
+      "UnauthRoleName": "amplify-goride-dev-51314-unauthRole",
+      "StackName": "amplify-goride-dev-51314",
+      "StackId": "arn:aws:cloudformation:us-west-2:143672214668:stack/amplify-goride-dev-51314/eb155b70-30ea-11ee-b33a-02cf8bf3c3c5",
+      "AmplifyAppId": "d1akmrp2k0op1t"
+    },
+    "categories": {
+      "auth": {
+        "goridea5cec6e6a5cec6e6": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}
